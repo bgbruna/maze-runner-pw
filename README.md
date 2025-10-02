@@ -1,1 +1,2 @@
-# maze-runner-pw
+# Maze-Runner
+Jogo de programação web
